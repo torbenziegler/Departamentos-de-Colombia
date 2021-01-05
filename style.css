@@ -9,14 +9,13 @@ h1{
 
 body{
     margin-top: 5vh;
-
-    background: #222;
     height: 110vh;
     background: #fff1e6;
 }
 
 .cards{
     height: 200vh;
+    margin-left: 20vh;
     display: grid;
     grid-gap: 45px;
     grid-template-columns: 200px 200px 200px 200px 200px;
