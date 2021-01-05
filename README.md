@@ -1,4 +1,4 @@
-# Departamentos-de-Colombia
+# Departamentos de Colombia
 
 Learn the departments of Colombia with this simple yet effective webpage
 
